@@ -13,7 +13,7 @@
   	<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
   </listener>
   
-  <!--  리스너에게 전달되는 초기화 파라미터 -->
+  <!--  리스너에게 전달되는 초기화 파라미터  -->
   <!--  즉, 컨테이너를 띄울 때 이 XML을 읽으라고 지정 -->
   <context-param>
   	<param-name>contextConfigLocation</param-name>

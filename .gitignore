@@ -1,16 +1,6 @@
-# Eclipse
-.metadata/
-.settings/
-.project
-.classpath
-
-# Java / Maven / Gradle
-target/
-bin/
-build/
-.gradle/
-*.log
-
-# OS
+.idea
+.vscode
 .DS_Store
-Thumbs.db
+.metadata
+
+Servers
